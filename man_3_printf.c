@@ -3,7 +3,8 @@
 .B _printf
 - Formatted output conversion.
 .SH SYNOPSIS
-.B include "main.h"
+.B
+#include "main.h"
 
 .B int _printf(const char *
 .I format
