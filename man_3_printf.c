@@ -1,9 +1,9 @@
-.TH man 3 "28 APRIL 2022" "0.10" "_printf man page"
+.TH man 3 "12 April 2022" "ALX SCHOOL" "_PRINTF"
 .SH NAME
 .B _printf
 - Formatted output conversion.
 .SH SYNOPSIS
-.B #include "main.h"
+.B include "main.h"
 
 .B int _printf(const char *
 .I format
